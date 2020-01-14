@@ -1,0 +1,14 @@
+{
+  "name": "n-form",
+  "version": "1.0.0",
+  "description": "Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "Radoslav Sharapanov <spacest@gmail.com> (http://github.com/radogado)",
+  "license": "MIT"
+}
